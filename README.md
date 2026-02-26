@@ -12,6 +12,6 @@ chmod +x run_all_tasks.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/FacePrintPay/artifacts/run_all_tasks.sh
+/data/data/com.termux/files/home/FacePrintPay/FacePrintPay/artifacts/run_all_tasks.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
